@@ -1,4 +1,8 @@
-# CartPole-v1 Reinforcement Learning Project
+# CartPole-v1 
+
+https://github.com/user-attachments/assets/eb52df44-a24c-48ea-9fc8-67dbf2bb67a9
+
+Reinforcement Learning Project
 
 This project implements and compares two reinforcement learning algorithms (DQN and PPO) on the CartPole-v1 environment from OpenAI Gym.
 
