@@ -1,7 +1,11 @@
 # DQN 
 
 
-https://github.com/user-attachments/assets/c1ddd6b3-98db-43fe-a03c-7c59d888b188
+
+https://github.com/user-attachments/assets/f20d2a03-c1f3-41e0-afbf-ccf86006e6f8
+
+
+
 
 # PPO
 
