@@ -1,6 +1,13 @@
-#DQN
+# DQN 
 
-https://github.com/user-attachments/assets/eb52df44-a24c-48ea-9fc8-67dbf2bb67a9
+
+https://github.com/user-attachments/assets/c1ddd6b3-98db-43fe-a03c-7c59d888b188
+
+#PPO
+
+
+https://github.com/user-attachments/assets/3af7858f-52dd-4db2-a34d-ab3043e0adac
+
 
 # CartPole-v1 
 
