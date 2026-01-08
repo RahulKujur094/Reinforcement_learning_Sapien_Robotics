@@ -1,12 +1,19 @@
-# Python
+# ==============================
+# Python cache & environments
+# ==============================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
 env/
 venv/
 ENV/
+
+# ==============================
+# Build / packaging junk
+# ==============================
 build/
 develop-eggs/
 dist/
@@ -23,34 +30,30 @@ wheels/
 .installed.cfg
 *.egg
 
-# Results and logs
-results/*.png
-results/*.npy
-results/*.pth
-results/*.zip
-results/ppo_logs/
-results/ppo_tensorboard/
-!results/.gitkeep
+# ==============================
+# DO NOT ignore project outputs
+# ==============================
+!results/
+!results/**
+!videos/
+!videos/**
 
-# Videos
-videos/
-*.mp4
-
-# IDE
+# ==============================
+# IDE files
+# ==============================
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS
+# ==============================
+# OS files
+# ==============================
 .DS_Store
 Thumbs.db
 
+# ==============================
 # Jupyter
+# ==============================
 .ipynb_checkpoints/
-
-# Model checkpoints (optional - uncomment if you don't want to track models)
-# results/*.pth
-# results/ppo_cartpole*
-
