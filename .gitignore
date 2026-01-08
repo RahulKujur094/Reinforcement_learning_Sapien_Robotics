@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Results and logs
+results/*.png
+results/*.npy
+results/*.pth
+results/*.zip
+results/ppo_logs/
+results/ppo_tensorboard/
+!results/.gitkeep
+
+# Videos
+videos/
+*.mp4
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints (optional - uncomment if you don't want to track models)
+# results/*.pth
+# results/ppo_cartpole*
+
